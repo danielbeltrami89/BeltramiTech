@@ -1,9 +1,10 @@
-export const GITHUB_USERNAME = "SEU_USUARIO_GITHUB";
+export const GITHUB_USERNAME = "danielbeltrami89";
 
-export const GITHUB_URL = "";
-export const LINKEDIN_URL = "";
-export const INSTAGRAM_URL = "";
-export const EMAIL = "";
+export const GITHUB_URL = "https://github.com/danielbeltrami89";
+export const LINKEDIN_URL =
+  "https://www.linkedin.com/in/daniel-beltrami-325166aa/";
+export const INSTAGRAM_URL = "https://www.instagram.com/beltrami.tech/";
+export const EMAIL = "support@beltramitech.dev";
 
 export const HERO_TITLE = "Beltrami Tech";
 export const HERO_SUBTITLE =
